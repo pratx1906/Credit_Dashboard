@@ -1,9 +1,12 @@
-# Credit_Dashboard
-Overview
+## Credit_Dashboard
+#Overview
+
 This project presents a comprehensive Credit Card Dashboard designed to provide critical insights into key performance metrics (KPIs) and customer information for a credit card company. The dashboard is developed using Power BI and connected to a MySQL dataset, capable of mimicking live data updates for real-time insights.
 
-Features
-Key Performance Metrics (KPIs)
+#Features
+
+#Key Performance Metrics (KPIs)
+
 Total Spending: Displays the total amount spent by customers.
 Average Transaction Value: Shows the average value of transactions over a specified period.
 Customer Segmentation: Segments customers based on their spending patterns, demographics, and credit behavior.
