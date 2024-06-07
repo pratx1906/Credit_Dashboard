@@ -8,22 +8,39 @@ This project presents a comprehensive Credit Card Dashboard designed to provide 
 #Key Performance Metrics (KPIs)
 
 Total Spending: Displays the total amount spent by customers.
+
 Average Transaction Value: Shows the average value of transactions over a specified period.
+
 Customer Segmentation: Segments customers based on their spending patterns, demographics, and credit behavior.
+
 Credit Utilization: Provides insights into how customers are utilizing their available credit limits.
+
 Customer Insights
+
 Demographics: Visualizes customer demographics, including age, gender, location, and income levels.
-Spending Patterns: Analyzes customer spending habits across different categories such as dining, travel, shopping, and more.
+
+Spending Patterns: Analyzes customer spending habits across different categories such as dining, travel, shopping, and more.\
+
 Credit Behavior: Tracks credit behavior, including payment history, credit limit utilization, and overdue amounts.
+
 Interactive Visualizations
+
 Time Series Analysis: Displays trends over time for various metrics, allowing users to see changes and patterns.
+
 Geographic Analysis: Maps customer data to provide geographic insights into spending and demographics.
+
 Drill-Down Capabilities: Allows users to drill down into specific data points for detailed analysis.
+
 Technology Stack
+
 Power BI: Used for creating and designing the interactive dashboard.
+
 MySQL: Serves as the backend database, storing all relevant data.
+
 Data Integration: Power BI connects seamlessly with MySQL to fetch and display data dynamically.
+
 Getting Started
+
 Prerequisites
 Power BI Desktop
 MySQL Server
